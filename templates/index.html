@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Motivational Quotes Generator</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Motivational Quotes Generator</h1>
+    <form method="POST" action="/generate">
+      <input type="text" name="prompt" id="keywordInput" placeholder="Enter a keyword">
+      <br>
+      <button type="submit">Generate</button>
+    </form>
+    <div id="quoteDisplay">
+      {% if generated_quote %}
+        {{ generated_quote }}
+      {% endif %}
+    </div>
+  </div>
+
+</body>
+</html>
