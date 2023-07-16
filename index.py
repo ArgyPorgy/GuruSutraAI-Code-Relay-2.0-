@@ -23,6 +23,10 @@ def generate_quote(category=None):
 def render():
     return render_template('index.html', generated_quote=None)
 
+# @app.route('/')
+# def render():
+#     return render_template('index.html', generated_quote=None)
+
 @app.route('/generate', methods=['POST'])
 def generate():
     prompt = request.form.get('prompt')
@@ -34,7 +38,7 @@ def generate():
     elif "good enough" in prompt.lower():
         generated_quote = generate_quote(category="insecurity")
     else:
-        generated_quote = generate_quote()
+        generated_quote = ""
 
     return render_template('index.html', generated_quote=generated_quote)
 

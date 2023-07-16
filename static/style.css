@@ -1,11 +1,15 @@
 
 body {
-    font-family: Arial, sans-serif;
+  font-family: 'Prompt', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(img.jpeg);
+    background-image: url(img1.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
+
+  
   
   .container {
     text-align: center;
@@ -13,7 +17,7 @@ body {
   }
   
   h1 {
-    color: rgb(183, 255, 0);
+    color:#fff8cf ;
   }
   
   input[type="text"] {
@@ -24,22 +28,53 @@ body {
   button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #24cb2c;
-    color: #fff;
+    background-color: #fff8cf;
+    color: black;
     border: none;
     cursor: pointer;
-    margin-top: 2.5rem;
+    margin-top: 3rem;
     border-radius: 1rem;
   }
   
   #quoteDisplay {
-    margin-top: 20px;
-    font-style: italic;
+    font-style: bold;
     font-weight: 700;
-    color: rgb(183, 255, 0);
+    color: #e7ebf0;
+    background-color: #433f3f ;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 40px;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 2;
+  /* animation: typing 4s steps(30, end);
+  overflow: hidden;
+  white-space: nowrap;
+
+  @keyframes {
+    from {
+      width: 0;
+    }
+  } */
+  
   }
   
   #keywordInput{
     border-radius: 1rem;
     width: 22rem;
+    margin-top: 43px;
   }
+
+
+  figure{
+    margin: 20px;
+    background-color: #e7ebf0;
+    color: black;
+  }
+ 
+  .blockquote-footer {
+    margin-top: 1rem;
+    margin-bottom: -7rem;
+    font-size: .875em;
+    color: #6c757d;
+}
