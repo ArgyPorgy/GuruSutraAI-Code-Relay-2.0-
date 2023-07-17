@@ -1,236 +1,432 @@
-[{
-"quote": "True spirituality is not about escaping from the world, but diving deeper into it, understanding its essence, and realizing the interconnectedness of all beings.",
-"author": "Sri Sri Ravi Shankar",
-"category": "spirituality"
-},
+[
+  {
+    "quote": "True spirituality is not about escaping from the world, but diving deeper into it, understanding its essence, and realizing the interconnectedness of all beings.",
+    "author": "Sri Sri Ravi Shankar",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Sadness is not a sign of weakness but a call to explore the depths of your being, to discover your inner strength, and to emerge with a newfound understanding of life's complexities.",
-"author": "Rabindranath Tagore",
-"category": "sadness"
-},
+  {
+    "quote": "Sadness is not a sign of weakness but a call to explore the depths of your being, to discover your inner strength, and to emerge with a newfound understanding of life's complexities.",
+    "author": "Rabindranath Tagore",
+    "category": "sadness"
+  },
 
-{
-"quote": "Insecurity arises from our attachment to external outcomes and the illusion of control. True security lies in accepting the impermanence of life and finding inner stability through self-realization.",
-"author": "Jiddu Krishnamurti",
-"category": "insecurity"
-},
+  {
+    "quote": "Insecurity arises from our attachment to external outcomes and the illusion of control. True security lies in accepting the impermanence of life and finding inner stability through self-realization.",
+    "author": "Jiddu Krishnamurti",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Spirituality is the art of nurturing your soul, expanding your consciousness, and finding unity with the divine. It is a path of self-discovery and inner transformation.",
-"author": "Swami Sivananda",
-"category": "spirituality"
-},
+  {
+    "quote": "Spirituality is the art of nurturing your soul, expanding your consciousness, and finding unity with the divine. It is a path of self-discovery and inner transformation.",
+    "author": "Swami Sivananda",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Sadness is a temporary state of being. Embrace it, explore its depths, and allow it to transform you. In the process, you will uncover the wisdom and strength that lie within.",
-"author": "Paramahansa Yogananda",
-"category": "sadness"
-},
+  {
+    "quote": "Sadness is a temporary state of being. Embrace it, explore its depths, and allow it to transform you. In the process, you will uncover the wisdom and strength that lie within.",
+    "author": "Paramahansa Yogananda",
+    "category": "sadness"
+  },
 
-{
-"quote": "Insecurity stems from our identification with the ever-changing body, mind, and circumstances. Realize your true nature as the eternal soul, beyond all limitations, and experience inner freedom.",
-"author": "Sri Ramana Maharshi",
-"category": "insecurity"
-},
+  {
+    "quote": "Insecurity stems from our identification with the ever-changing body, mind, and circumstances. Realize your true nature as the eternal soul, beyond all limitations, and experience inner freedom.",
+    "author": "Sri Ramana Maharshi",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Spirituality is not about religious rituals or beliefs but about realizing the divinity within you. It is a journey of self-discovery and self-transcendence, leading to inner peace and fulfillment.",
-"author": "Swami Vivekananda",
-"category": "spirituality"
-},
+  {
+    "quote": "Spirituality is not about religious rituals or beliefs but about realizing the divinity within you. It is a journey of self-discovery and self-transcendence, leading to inner peace and fulfillment.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Sadness can be a catalyst for spiritual growth. It compels us to seek deeper meaning, question our attachments, and cultivate compassion and empathy towards ourselves and others.",
-"author": "Sri Chinmoy",
-"category": "sadness"
-},
+  {
+    "quote": "Sadness can be a catalyst for spiritual growth. It compels us to seek deeper meaning, question our attachments, and cultivate compassion and empathy towards ourselves and others.",
+    "author": "Sri Chinmoy",
+    "category": "sadness"
+  },
 
-{
-"quote": "Insecurity arises when we identify ourselves with temporary roles and external circumstances. Realize your eternal nature, embrace your uniqueness, and radiate confidence from within.",
-"author": "Sri Sri Ravi Shankar",
-"category": "insecurity"
-},
+  {
+    "quote": "Insecurity arises when we identify ourselves with temporary roles and external circumstances. Realize your eternal nature, embrace your uniqueness, and radiate confidence from within.",
+    "author": "Sri Sri Ravi Shankar",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Spirituality is the realization that we are all interconnected and part of a larger cosmic tapestry. It is the recognition of the divinity within ourselves and all of creation.",
-"author": "Swami Vivekananda",
-"category": "spirituality"
-},
-{
+  {
+    "quote": "Spirituality is the realization that we are all interconnected and part of a larger cosmic tapestry. It is the recognition of the divinity within ourselves and all of creation.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
+  {
     "quote": "Love is the bridge that connects hearts, transcends differences, and unites humanity in a shared journey of compassion and understanding.",
-    "author": "Unknown",
-    "category": "love"
-    },
-    
-    {
+    "author": "Swami Sivananda",
+    "category": "spirituality"
+  },
+
+  {
     "quote": "Forgiveness is not about condoning actions but about liberating yourself from the burden of resentment, allowing healing and growth to take place.",
-    "author": "Unknown",
-    "category": "forgiveness"
-    },
-    
-    {
-    "quote": "Gratitude is the practice of acknowledging the blessings in your life, cultivating a positive mindset, and opening your heart to abundance and joy.",
-    "author": "Unknown",
-    "category": "gratitude"
-    },
-    
-    {
-    "quote": "Courage is not the absence of fear, but the willingness to face and overcome it, embracing vulnerability and stepping into your true potential.",
-    "author": "Unknown",
-    "category": "courage"
-    },
-    
-    {
-    "quote": "Kindness is a language that transcends barriers, spreads love and compassion, and brings light into the lives of others.",
-    "author": "Unknown",
-    "category": "kindness"
-    },
-    
-    {
-    "quote": "Trust is the foundation of meaningful relationships. It requires vulnerability, open communication, and a belief in the inherent goodness of others.",
-    "author": "Unknown",
-    "category": "trust"
-    },
-    
-    {
-    "quote": "Acceptance is embracing life as it is, without judgment or resistance, and finding peace in the present moment.",
-    "author": "Unknown",
-    "category": "acceptance"
-    },
-    
-    {
-    "quote": "Wisdom is the integration of knowledge and experience, guiding us to make thoughtful choices, cultivate inner growth, and live with authenticity.",
-    "author": "Unknown",
-    "category": "wisdom"
-    },
-    
-    {
-    "quote": "Hope is the beacon that illuminates the darkest moments, inspiring resilience, fostering perseverance, and instilling a belief in brighter days ahead.",
-    "author": "Unknown",
-    "category": "hope"
-    },
-    
-    {
-    "quote": "Compassion is the recognition of suffering in others, accompanied by a genuine desire to alleviate it and foster empathy, kindness, and understanding.",
-    "author": "Unknown",
-    "category": "compassion"
-    },
-{
-"quote": "Happiness is not a destination but a state of being. It is found within, in the appreciation of simple joys and the cultivation of gratitude.",
-"author": "Unknown",
-"category": "happiness"
-},
+    "author": "Sri Ramana Maharshi",
+    "category": "sadness"
+  },
 
-{
-"quote": "Fear is not an enemy but a messenger. It invites us to acknowledge our vulnerabilities, face our deepest fears, and discover the courage that resides within.",
-"author": "Unknown",
-"category": "fear"
-},
+  {
+    "quote": "Do not be sad; for the joy of the Lord is your strength.",
+    "author": "Swami Vivekananda",
+    "category": "sadness"
+  },
 
-{
-"quote": "Peace is not the absence of conflict but the presence of harmony within oneself. It is a journey of inner tranquility, forgiveness, and embracing the present moment.",
-"author": "Unknown",
-"category": "peace"
-},
+  {
+    "quote": "Insecurity is often the culprit behind arrogance.",
+    "author": "Netaji Subhas Chandra Bose",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Authenticity is the practice of embracing your true self, expressing your unique gifts, and living in alignment with your values and purpose.",
-"author": "Unknown",
-"category": "authenticity"
-},
+  {
+    "quote": "Spirituality is the basis of all my political ideas.",
+    "author": "Mahatma Gandhi",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Growth occurs when we step out of our comfort zones, embrace challenges, and view failures as opportunities for learning and personal development.",
-"author": "Unknown",
-"category": "growth"
-},
+  {
+    "quote": "I do not want to foresee the future. I am concerned with taking care of the present. God has given me no control over the moment following.",
+    "author": "Mahatma Gandhi",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Gratitude is the key that unlocks the fullness of life. It transforms ordinary moments into extraordinary blessings and fosters a deep sense of appreciation for all that is.",
-"author": "Unknown",
-"category": "gratitude"
-},
+  {
+    "quote": "Spirituality is indeed the master key of the Indian mind; the sense of the infinitive is native to it.",
+    "author": "Sri Aurobindo",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Kindness is a language that transcends differences, nurtures compassion, and has the power to create ripples of love and positive change in the world.",
-"author": "Unknown",
-"category": "kindness"
-},
+  {
+    "quote": "Sadness is a wall between two gardens.",
+    "author": "Khalil Gibran",
+    "category": "sadness"
+  },
 
-{
-"quote": "Mindfulness is the practice of being fully present in the here and now, cultivating awareness, and embracing each moment with acceptance and non-judgment.",
-"author": "Unknown",
-"category": "mindfulness"
-},
+  {
+    "quote": "Fear of death makes us devoid both of valour and religion. For want of valour is want of religious faith.",
+    "author": "Mahatma Gandhi",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Wisdom is not merely knowledge but the integration of insight, experience, and discernment. It guides us to make choices aligned with our highest selves.",
-"author": "Unknown",
-"category": "wisdom"
-},
+  {
+    "quote": "In spirituality, seeking has to become a conscious process.",
+    "author": "Sadhguru",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Resilience is the ability to navigate through life's challenges, bounce back from setbacks, and embrace adversity as an opportunity for growth and strength.",
-"author": "Unknown",
-"category": "resilience"
-}, 
-{
-"quote": "Meditation is the gateway to inner peace and self-discovery. It is a practice of stilling the mind, connecting with your essence, and experiencing the profoundness of the present moment.",
-"author": "Unknown",
-"category": "meditation"
-},
+  {
+    "quote": "Sadness is an ocean; it is vast, deep, and endless.",
+    "author": "Rabindranath Tagore",
+    "category": "sadness"
+  },
 
-{
-"quote": "Compassion is the purest expression of love in action. It is the practice of extending kindness, empathy, and understanding to all living beings.",
-"author": "Unknown",
-"category": "compassion"
-},
+  {
+    "quote": "I'm not perfect; I will fall sick, I will break a leg, but nothing will stop my mind from working.",
+    "author": "Netaji Subhas Chandra Bose",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Purpose is the guiding force that fuels our actions and gives meaning to our lives. It is the alignment of our values, passions, and contributions to the greater good.",
-"author": "Unknown",
-"category": "purpose"
-},
+  {
+    "quote": "Spirituality is the science of the soul.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Gratitude is the antidote to scarcity. It opens the door to abundance, shifts our focus to what we have, and invites more blessings into our lives.",
-"author": "Unknown",
-"category": "gratitude"
-},
+  {
+    "quote": "The true source of our suffering has been our timidity.",
+    "author": "Netaji Subhas Chandra Bose",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Self-acceptance is embracing all aspects of yourself, both light and shadow. It is the foundation for self-love, growth, and authentic connection with others.",
-"author": "Unknown",
-"category": "self-acceptance"
-},
+  {
+    "quote": "The only thing that separates women of color from anyone else is opportunity.",
+    "author": "Viola Davis",
+    "category": "sadness"
+  },
 
-{
-"quote": "Empathy is the ability to understand and share the feelings of others. It bridges the gap between individuals, fosters compassion, and nurtures deeper human connections.",
-"author": "Unknown",
-"category": "empathy"
-},
+  {
+    "quote": "My greatest strength is common sense. I'm really a standard brand - like Campbell's tomato soup or Baker's chocolate.",
+    "author": "Katharine Hepburn",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Balance is the key to harmonious living. It involves nurturing all aspects of your being - physical, mental, emotional, and spiritual - to cultivate a sense of wholeness.",
-"author": "Unknown",
-"category": "balance"
-},
+  {
+    "quote": "Religion is the manifestation of the divinity already in man.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
 
-{
-"quote": "Forgiveness is the act of releasing resentment and finding liberation in the power of letting go. It is a gift you give to yourself for healing and moving forward.",
-"author": "Unknown",
-"category": "forgiveness"
-},
+  {
+    "quote": "Tears shed for another person are not a sign of weakness. They are a sign of a pure heart.",
+    "author": "José N. Harris",
+    "category": "sadness"
+  },
 
-{
-"quote": "Transformation begins with self-awareness. It is the conscious journey of unraveling conditioned patterns, embracing growth, and becoming the best version of yourself.",
-"author": "Unknown",
-"category": "transformation"
-},
+  {
+    "quote": "He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy.",
+    "author": "Chanakya",
+    "category": "insecurity"
+  },
 
-{
-"quote": "Connection is the essence of life. It reminds us that we are not alone, that our stories intertwine, and that we are part of something greater than ourselves.",
-"author": "Unknown",
-"category": "connection"
-}]
+  {
+    "quote": "True spirituality is a mental attitude you can practice at any time.",
+    "author": "Dalai Lama",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness is silent, it is yours. It is coming because you are alone. It is giving you a chance to go deeper into your aloneness.",
+    "author": "Osho",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The only medicine for suffering, crime, and all other woes of mankind is wisdom.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Insecurity, always remember, is a kind of death to the soul.",
+    "author": "Sadhguru",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Spirituality is not about looking for God; it's about peeling away the veils until you realize that God is all that there is in the universe.",
+    "author": "Deepak Chopra",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The walls we build around us to keep sadness out also keeps out the joy.",
+    "author": "Jim Rohn",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+    "author": "Buddha",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Don't be sad because it's over. Smile because it happened.",
+    "author": "Dr. Seuss",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "author": "Wayne Dyer",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The greatest religion is to be true to your own nature. Have faith in yourselves.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Insecurity is the worst sense that lovers feel: sometimes the most humdrum desireless marriage seems better. Insecurity twists meanings and poisons trust.",
+    "author": "Graham Greene",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Spirituality does not lie in sign of the cross or putting marks on the forehead or dressing in a particular fashion. All that is external.",
+    "author": "Swami Satchidananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The reason why the world lacks unity, and lies broken and in heaps, is because man is disunited with himself.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness is an opportunity to be compassionate.",
+    "author": "Pema Chödrön",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths.",
+    "author": "Rumi",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Fearlessness is the first requisite of spirituality.",
+    "author": "Mahatma Gandhi",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "To be free from all authority, of your own and that of another, is to die to everything of yesterday, so that your mind is always fresh, always young, innocent, full of vigour and passion.",
+    "author": "Jiddu Krishnamurti",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Don't think there are no second chances. Life always offers you a second chance. It's called tomorrow.",
+    "author": "Nicholas Sparks",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Fear is the cheapest room in the house. I would like to see you living in better conditions.",
+    "author": "Hafiz",
+    "category": "fear"
+  },
+
+  {
+    "quote": "Nobody can hurt me without my permission.",
+    "author": "Mahatma Gandhi",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Spirituality is the basis of all my political ideas.",
+    "author": "Mahatma Gandhi",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "I had learned that fighting on the side of righteousness was more important than seeking personal happiness.",
+    "author": "Netaji Subhas Chandra Bose",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness is a gift. Embrace it.",
+    "author": "Sadhguru",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "Fearlessness is not the absence of fear. It's the mastery of fear.",
+    "author": "Rasheed Ogunlaru",
+    "category": "fear"
+  },
+
+  {
+    "quote": "Spirituality is not a belief, it's a way of life.",
+    "author": "Amit Ray",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Insecurity stems from a lack of self-awareness.",
+    "author": "Deepika Padukone",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Happiness comes when your work and words are of benefit to yourself and others.",
+    "author": "Buddha",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness is the result of unhappy thoughts.",
+    "author": "Rabindranath Tagore",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.",
+    "author": "Swami Vivekananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Insecurity is an ugly thing, it makes you hate people you don't even know.",
+    "author": "Netaji Subhas Chandra Bose",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "author": "Brian Tracy",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Spirituality does not consist in meditating only while you are walking, working or doing other activities; rather, spirituality consists in doing all your activities, in living your life in such a way that there is a little meditation happening in all that you do.",
+    "author": "Swami Satchidananda",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness gives depth. Happiness gives height. Sadness gives roots. Happiness gives branches. Happiness is like a tree going into the sky, and sadness is like the roots going down into the womb of the earth. Both are needed, and the higher a tree goes, the deeper it goes, simultaneously. The bigger the tree, the bigger will be its roots. In fact, it is always in proportion. That's its balance.",
+    "author": "Osho",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "Insecurity is a waste of time.",
+    "author": "Diane von Furstenberg",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "The spiritual journey is the unlearning of fear and the acceptance of love.",
+    "author": "Marianne Williamson",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "Sadness is but a wall between two gardens.",
+    "author": "Khalil Gibran",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "Spirituality is a science that teaches us how to live happily in any situation.",
+    "author": "Pandurang Shastri Athavale",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The only antidote to insecurity is courage.",
+    "author": "Ratan Tata",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "If you look to others for fulfillment, you will never be fulfilled.",
+    "author": "Lao Tzu",
+    "category": "insecurity"
+  },
+
+  {
+    "quote": "Spirituality is not just meditation; it's your whole life.",
+    "author": "Sadhguru",
+    "category": "spirituality"
+  },
+
+  {
+    "quote": "The sadness will last forever.",
+    "author": "Vincent van Gogh",
+    "category": "sadness"
+  },
+
+  {
+    "quote": "Insecurity is the lack of trust in your abilities.",
+    "author": "Ravish Kumar",
+    "category": "insecurity"
+  }
+]
