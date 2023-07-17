@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(c1PfFD.jpg);
-    background-size: curtain;
+    background-size: cover;
     background-repeat: repeat-y;
     background-position: center;
     margin-bottom: 1rem;
@@ -142,14 +142,15 @@ body {
 
 
 #i{
-  margin-left: 45rem;
+  margin-left: 40rem;
 }
 #agree:checked ~ .text-center{
   left: 0;
   background-color: #e7ebf0;
+  
 }
 #about-us{
-margin-left: 42rem;
+margin-left: 37rem;
 margin-top: -10px;
 color: #fff8cf;
 }
