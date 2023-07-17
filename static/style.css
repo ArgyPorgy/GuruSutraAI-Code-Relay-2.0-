@@ -94,18 +94,21 @@ body {
   }
  
   .blockquote-footer {
-    margin-top: 1rem;
-    margin-bottom: -7rem;
+    position: absolute;
+    bottom: -9rem;
+    width: 100%;
+    background-color: rgb(5, 5, 5);
     font-size: .875em;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .blockquote p{
   font-size: .8rem;
   transition: .5s;
+
 }
 
 .blockquote p:hover{
-  color: red;
+  background-color: rgb(247, 255, 11);
   font-size: .809rem;
 }
 
@@ -119,6 +122,9 @@ body {
   opacity: 0.4;
 }
 
+.text-center:hover{
+  background-color: rgb(247, 255, 11);
+}
 /* icon */
 #magic{
   position: relative;
@@ -126,4 +132,21 @@ body {
 }
 #magic:hover{
   color: rgb(0, 136, 255);
+}
+.text-center{
+  position: relative;
+  left: -2000px;
+}
+
+
+#i{
+  margin-left: 45rem;
+}
+#agree:checked ~ .text-center{
+  left: 0;
+  background-color: #e7ebf0;
+}
+#about-us{
+margin-left: 42rem;
+margin-top: -10px;
 }
