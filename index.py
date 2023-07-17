@@ -37,7 +37,7 @@ def generate():
         else:
             generated_quote = generate_quote()
     else:
-        # If the input is empty, set the response text to an empty string
+       
         generated_quote = ""
 
     return render_template('index.html', generated_quote=generated_quote)
